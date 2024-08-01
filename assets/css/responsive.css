@@ -74,5 +74,8 @@
     #content .avatar {
         width: 60%;
     }
+    #footer .background-footer {
+        padding-top: 70%;
+    }
 }
 
